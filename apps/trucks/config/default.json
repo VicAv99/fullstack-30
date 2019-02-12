@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "username": "postgres",
+    "password": "",
+    "database": "trucks",
+    "port": 5432,
+    "schema": "public",
+    "seed": true
+  }
+}
